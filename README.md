@@ -1,17 +1,18 @@
 # DataStack-Projects
 
-Este repositorio contiene proyectos de ciencia de datos desarrollados como parte de un portafolio profesional.
+Este repositorio contiene proyectos relacionados con análisis y predicción de datos:
 
-## Proyectos
+## Contenido
 
-### Titanic - Predicción de Supervivencia
-- **Descripción:** Análisis de datos y creación de un modelo predictivo para determinar la supervivencia en el Titanic.
-- **Archivos:**
-  - Datos: `datasets/titanic/`
-  - Notebook: `notebooks/TitanicAnalysis.ipynb`
+### 1. **Datasets**
+- `house-prices`: Contiene los datos y resultados para el proyecto "House Prices".
+- `titanic`: Contiene los datos y resultados para el proyecto "Titanic Survival".
 
-### House Prices - Predicción de Precios de Viviendas
-- **Descripción:** Análisis de datos y modelo predictivo para estimar precios de viviendas utilizando técnicas avanzadas de regresión.
-- **Archivos:**
-  - Datos: `datasets/house-prices/`
-  - Notebook: `notebooks/HousePricesAnalysis.ipynb`
+### 2. **Notebooks**
+- `HousePrices.ipynb`: Análisis y modelo de predicción de precios de casas.
+- `titanic_analysis.ipynb`: Análisis y modelo de predicción de supervivencia en el Titanic.
+
+## Ejecución
+1. Clona este repositorio.
+2. Navega a la carpeta del proyecto deseado.
+3. Abre el notebook correspondiente en Google Colab o Jupyter Notebook.
